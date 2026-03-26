@@ -33,7 +33,7 @@ Base solide pour automatiser l'extinction de ports ou la limitation CPU (Power C
 
 # Installation
 ```Bash
-git clone [https://github.com/VOTRE_USER/greenops-power-throttler.git](https://github.com/VOTRE_USER/greenops-power-throttler.git)
+git clone https://github.com/FilouCosmos/greenops-power-throttler.git
 cd greenops-power-throttler
 pip install -r requirements.txt
 ```
