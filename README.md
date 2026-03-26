@@ -4,7 +4,7 @@ L'optimisation énergétique n'est plus une option. Ce script SRE va taper direc
 
 Si un serveur dépasse son enveloppe thermique ou de consommation (TDP/Watts), le script déclenche une alerte et peut être couplé à un hyperviseur pour forcer un mode d'économie d'énergie ou migrer des VMs (DRS).
 
-## 🏗️ Architecture du Script
+##  Architecture du Script
 
 ```mermaid
 sequenceDiagram
